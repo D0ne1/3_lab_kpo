@@ -1,0 +1,34 @@
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\bin\Debug\mdi paint.exe.config
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\bin\Debug\mdi paint.exe
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\bin\Debug\mdi paint.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.FormAbout.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.MainForm.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.Properties.Resources.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.GenerateResource.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.exe
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.FormDocument.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.CanvasSizeForm.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\mdi paint.exe.config
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\mdi paint.exe
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\mdi paint.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\PluginContracts.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\System.Drawing.Common.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\System.Drawing.Common.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\System.Drawing.Common.xml
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi_paint.CanvasSizeForm.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi_paint.FormAbout.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi_paint.FormDocument.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi_paint.MainForm.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi_paint.Properties.Resources.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.GenerateResource.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.Up2Date
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi paint.exe
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi paint.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\PluginContracts.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\obj\Debug\mdi_paint.PluginManagerForm.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\mdi paint\mdi paint\bin\Debug\MedianFilter.dll

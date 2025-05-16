@@ -1,0 +1,12 @@
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\obj\Debug\net48\MedianFilter.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\obj\Debug\net48\MedianFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\obj\Debug\net48\MedianFilter.AssemblyInfoInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\obj\Debug\net48\MedianFilter.AssemblyInfo.cs
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\obj\Debug\net48\MedianFilter.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\bin\Debug\net48\MedianFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\bin\Debug\net48\MedianFilter.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\bin\Debug\net48\PluginContracts.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\bin\Debug\net48\PluginContracts.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\obj\Debug\net48\MedianFi.C0C581FC.Up2Date
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\obj\Debug\net48\MedianFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\MedianFilter\obj\Debug\net48\MedianFilter.pdb

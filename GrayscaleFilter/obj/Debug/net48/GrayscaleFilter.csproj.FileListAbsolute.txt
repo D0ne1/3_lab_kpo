@@ -1,0 +1,12 @@
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net48\GrayscaleFilter.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net48\GrayscaleFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net48\GrayscaleFilter.AssemblyInfoInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net48\GrayscaleFilter.AssemblyInfo.cs
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net48\GrayscaleFilter.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net48\GrayscaleFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net48\GrayscaleFilter.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net48\PluginContracts.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net48\PluginContracts.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net48\Grayscal.EF8B811D.Up2Date
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net48\GrayscaleFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net48\GrayscaleFilter.pdb

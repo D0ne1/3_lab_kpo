@@ -1,0 +1,12 @@
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\obj\Debug\net48\WatermarkFilter.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\obj\Debug\net48\WatermarkFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\obj\Debug\net48\WatermarkFilter.AssemblyInfoInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\obj\Debug\net48\WatermarkFilter.AssemblyInfo.cs
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\obj\Debug\net48\WatermarkFilter.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\bin\Debug\net48\WatermarkFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\bin\Debug\net48\WatermarkFilter.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\bin\Debug\net48\PluginContracts.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\bin\Debug\net48\PluginContracts.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\obj\Debug\net48\Watermar.C582B3F7.Up2Date
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\obj\Debug\net48\WatermarkFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\WatermarkFilter\obj\Debug\net48\WatermarkFilter.pdb

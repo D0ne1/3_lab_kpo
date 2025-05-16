@@ -1,0 +1,17 @@
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net8.0\GrayscaleFilter.deps.json
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net8.0\GrayscaleFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net8.0\GrayscaleFilter.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net8.0\PluginContracts.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net8.0\WatermarkFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net8.0\PluginContracts.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\bin\Debug\net8.0\WatermarkFilter.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\GrayscaleFilter.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\GrayscaleFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\GrayscaleFilter.AssemblyInfoInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\GrayscaleFilter.AssemblyInfo.cs
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\GrayscaleFilter.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\Grayscal.EF8B811D.Up2Date
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\GrayscaleFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\refint\GrayscaleFilter.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\GrayscaleFilter.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\GrayscaleFilter\obj\Debug\net8.0\ref\GrayscaleFilter.dll

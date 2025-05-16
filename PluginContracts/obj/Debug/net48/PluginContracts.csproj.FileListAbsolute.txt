@@ -1,0 +1,9 @@
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\obj\Debug\net48\PluginContracts.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\obj\Debug\net48\PluginContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\obj\Debug\net48\PluginContracts.AssemblyInfoInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\obj\Debug\net48\PluginContracts.AssemblyInfo.cs
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\obj\Debug\net48\PluginContracts.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\bin\Debug\net48\PluginContracts.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\bin\Debug\net48\PluginContracts.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\obj\Debug\net48\PluginContracts.dll
+C:\ДАНИИЛ\универ\2 курс\кпо\3_lab\PluginContracts\obj\Debug\net48\PluginContracts.pdb
